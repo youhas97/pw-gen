@@ -1,2 +1,2 @@
-# pw-gen
-Password generator, just download whole repo and run script :)
+# Password generator
+Just download whole repo and run script :)
